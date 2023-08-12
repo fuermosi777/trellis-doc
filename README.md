@@ -6,3 +6,5 @@ We never sync or read your bank information. All data will be entered by yoursel
 
 - [Privacy Policy](https://github.com/fuermosi777/trellis-doc/wiki/Privacy-Policy)
 - [Terms of Use](https://github.com/fuermosi777/trellis-doc/wiki/Terms-of-Use)
+
+[Contact](https://github.com/fuermosi777/trellis-doc/issues)
